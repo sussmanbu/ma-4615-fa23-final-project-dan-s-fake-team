@@ -24,6 +24,7 @@ git config --global pull.rebase false
 ## Plan for the day
 
 These are things I want to do today.
+Here is the plan.
 
 1. Create a conflict
 2. Resolve conflict
@@ -35,3 +36,4 @@ These are things I want to do today.
 ## What I've done
 
 I've completed steps 1-3 and I'm about to do step 4.
+
