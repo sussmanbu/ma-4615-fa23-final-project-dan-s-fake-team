@@ -23,6 +23,7 @@ git config --global pull.rebase false
 
 ## Plan for the day
 
+These are things I want to do today.
 
 1. Create a conflict
 2. Resolve conflict
@@ -30,3 +31,4 @@ git config --global pull.rebase false
 4. Update branch
 5. Conflict on a branch
 6. Pull requests
+
