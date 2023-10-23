@@ -23,6 +23,7 @@ git config --global pull.rebase false
 
 ## Plan for the day
 
+Here is the plan.
 
 1. Create a conflict
 2. Resolve conflict
