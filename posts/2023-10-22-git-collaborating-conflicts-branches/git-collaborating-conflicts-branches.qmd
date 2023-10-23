@@ -1,0 +1,32 @@
+---
+title: "Git: Collaborating, conflicts, branches"
+author: "Daniel Sussman"
+date: "2023-10-22"
+date-modified: "2023-10-22"
+draft: FALSE
+---
+
+## Setting up pulling
+
+Everyone should run in the terminal from your project directory,
+
+```{bash}
+git config pull.rebase false
+```
+
+or from any directory
+
+```{bash}
+git config --global pull.rebase false
+```
+
+
+## Plan for the day
+
+
+1. Create a conflict
+2. Resolve conflict
+3. Create branch
+4. Update branch
+5. Conflict on a branch
+6. Pull requests
