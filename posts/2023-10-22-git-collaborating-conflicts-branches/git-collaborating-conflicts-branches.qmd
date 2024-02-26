@@ -6,19 +6,6 @@ date-modified: "2023-10-22"
 draft: FALSE
 ---
 
-## Setting up pulling
-
-Everyone should run in the terminal from your project directory,
-
-```
-git config pull.rebase true
-```
-
-or from any directory
-
-```
-git config --global pull.rebase true
-```
 
 
 ## Plan for the day
@@ -33,6 +20,20 @@ Here is the plan.
 5. Conflict on a branch
 6. Pull requests
 
+
+## Setting up pulling
+
+Everyone should run in the terminal from your project directory,
+
+```
+git config pull.rebase true
+```
+
+or from any directory
+
+```
+git config --global pull.rebase true
+```
 
 ## Steps to rebase
 
