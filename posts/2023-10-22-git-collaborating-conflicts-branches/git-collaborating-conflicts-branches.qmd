@@ -34,3 +34,12 @@ Here is the plan.
 6. Pull requests
 
 
+## Steps to rebase
+
+1. Commit changes
+2. Pull changes (Done if there are no conflicts)
+3. Fix conflicts
+4. Commit changes
+5. Run `git rebase --continue` in the Terminal.
+6. Push
+
